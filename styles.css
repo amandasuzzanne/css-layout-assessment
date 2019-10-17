@@ -20,6 +20,8 @@ img {
 }
 
 .grid {
+    display:	grid;		
+    grid-template-columns: 3fr 1fr;
     margin: 0 auto;
     padding: 0 20px;
     max-width: 980px;
